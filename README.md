@@ -1,5 +1,5 @@
 # TEConnect
-[![npm version](https://img.shields.io/npm/v/magensa-bluetooth.svg?style=for-the-badge)](https://www.npmjs.com/package/@magensa/te-connect "@magensa/te-connect npm.js")  
+[![npm version](https://img.shields.io/npm/v/@magensa/te-connect.svg?style=for-the-badge)](https://www.npmjs.com/package/@magensa/te-connect "@magensa/te-connect npm.js")  
 
 This package contains shared logic for creating a TEConnect instance in JavaScript applications.  
 
